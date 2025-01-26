@@ -44,3 +44,13 @@ button {
 button:hover {
     background-color: #d62828;
 }
+
+footer{
+    text-align: center;
+    margin-top: 30%;
+    position: absolute;
+
+    & a{
+        text-decoration: none;
+    }
+}
